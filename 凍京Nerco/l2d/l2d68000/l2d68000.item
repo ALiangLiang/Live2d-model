@@ -1,0 +1,44 @@
+{
+"AnimationRetargetingConfig" : {
+  "enabled" : true,
+  "mappings" : null
+},
+"AnimationStandard" : "Live2D_4_0",
+"Attachments" : null,
+"CameraSettings" : {
+  "CameraBone" : "Camera",
+  "FOV" : 60,
+  "LookAtBone" : "BipHead",
+  "OffsetPos" : [ 0.0, 0.0, 3.0 ],
+  "OffsetRot" : [ -0.0, 0.0, -0.0 ],
+  "ResetType" : 1
+},
+"CubismTextureHeight" : 2048,
+"CubismTextureWidth" : 2048,
+"CubismTextureWrap" : "Clamp",
+"CustomizationName" : "",
+"CustomizationOptions" : null,
+"Description" : "l2d68000",
+"FriendlyName" : "l2d68000",
+"IsPersona" : false,
+"ItemName" : "l2d68000",
+"LeapMotionBonesRemapping" : null,
+"LeapMotionEnabled" : true,
+"LeapMotionHiddenOffset" : [ 0.0, 0.0, 0.0 ],
+"Live2DAnimazeVersion" : 1,
+"Live2DPosition" : [ 0.0, 0.0 ],
+"Live2DScale" : [ 1.0, 1.0 ],
+"LoadCustomizations" : false,
+"ModelPath" : "l2d68000.model3.json",
+"PerceptionNeuronRetargetingConfig" : {
+  "enabled" : true,
+  "mappings" : null
+},
+"Position" : [ 0.0, 0.0, 0.0 ],
+"PropTags" : [ "MISSING_TAG" ],
+"RetargetingOverrides" : null,
+"Rotation" : [ -0.0, 0.0, -0.0 ],
+"Scale" : [ 1.0, 1.0, 1.0 ],
+"SourceFileMetaInfo" : null,
+"Type" : "Avatar2D"
+}
