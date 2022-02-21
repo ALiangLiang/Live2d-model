@@ -5,7 +5,26 @@
 		"Textures": [
 			"アニメ36-0abc.4096/texture_00.png"
 		],
-		"DisplayInfo": "アニメ36-0abc.cdi3.json"
+		"DisplayInfo": "アニメ36-0abc.cdi3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "0.motion3.json"
+        },
+        {
+          "File": "a.motion3.json"
+        },
+        {
+          "File": "b.motion3.json"
+        },
+        {
+          "File": "c1.motion3.json"
+        },
+        {
+          "File": "c2.motion3.json"
+        }
+      ]
+    }
 	},
 	"Groups": [
 		{

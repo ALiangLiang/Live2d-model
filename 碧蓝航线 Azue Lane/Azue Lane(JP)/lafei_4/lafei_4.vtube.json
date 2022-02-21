@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "Name": "lafei_4",
+  "ModelID": "6dfddac7f9f64b9190361a0f37fae510",
+  "FileReferences": {
+    "Icon": "icon_lafei_4.png",
+    "Model": "lafei_4.model3.json",
+    "IdleAnimation": "",
+    "IdleAnimationWhenTrackingLost": "idle.motion3.json"
+  },
+  "ModelSaveMetadata": {
+    "LastSavedVTubeStudioVersion": "1.17.0",
+    "LastSavedPlatform": "Steam",
+    "LastSavedDateUTC": "Wednesday, 23 February 2022, 15:23:51",
+    "LastSavedDateLocalTime": "Wednesday, 23 February 2022, 23:23:51",
+    "LastSavedDateUnixMillisecondTimestamp": "1645629831909"
+  },
+  "SavedModelPosition": {
+    "Position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "Scale": {
+      "x": 0.1,
+      "y": 0.1,
+      "z": 1.0
+    }
+  },
+  "ModelPositionMovement": {
+    "Use": true,
+    "X": 6,
+    "Y": 8,
+    "Z": 11,
+    "SmoothingX": 10,
+    "SmoothingY": 10,
+    "SmoothingZ": 10
+  },
+  "PhysicsSettings": {
+    "Use": true,
+    "UseLegacyPhysics": false,
+    "Live2DPhysicsFPS": 3,
+    "PhysicsStrength": 50,
+    "WindStrength": 0
+  },
+  "GeneralSettings": {
+    "TimeUntilTrackingLostIdleAnimation": 0.0
+  },
+  "ParameterSettings": [],
+  "Hotkeys": [
+    {
+      "HotkeyID": "99808f2a695d4e91a9f818a612712e45",
+      "Name": "login",
+      "Action": "TriggerAnimation",
+      "File": "login.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad0",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "0a624d5bcc144d028b61d94b23e52a2c",
+      "Name": "main_1",
+      "Action": "TriggerAnimation",
+      "File": "main_1.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad1",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "e8d431c0656147339e653e6bc97a6cc2",
+      "Name": "main_2",
+      "Action": "TriggerAnimation",
+      "File": "main_2.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad2",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "31d926c4b01a4f03a9fa8b16eb74e8f4",
+      "Name": "main_3",
+      "Action": "TriggerAnimation",
+      "File": "main_3.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad3",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "09f6e08e4ffb495889257a7f45720d82",
+      "Name": "complete",
+      "Action": "TriggerAnimation",
+      "File": "complete.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad4",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "05e5748aa69040d782d61fa6d46650fb",
+      "Name": "effect",
+      "Action": "TriggerAnimation",
+      "File": "effect.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad5",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "bd8eceeaadec48abbac96322b672b8c7",
+      "Name": "home",
+      "Action": "TriggerAnimation",
+      "File": "home.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad6",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "d4fd4dc58a754ff2a9221b8553beba6d",
+      "Name": "mission",
+      "Action": "TriggerAnimation",
+      "File": "mission.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad7",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "0cd441c9d2754c5aa56c3d0edf5557e5",
+      "Name": "mission_complete",
+      "Action": "TriggerAnimation",
+      "File": "mission_complete.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad8",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "HotkeyID": "3d1188082d8446c0ad931854cc66144e",
+      "Name": "wedding",
+      "Action": "TriggerAnimation",
+      "File": "wedding.motion3.json",
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "Rotation": 0.0
+      },
+      "ColorOverlay": {
+        "On": false,
+        "Display": -1,
+        "WindowName": "",
+        "IncludeLeft": false,
+        "IncludeMid": false,
+        "IncludeRight": false,
+        "BaseValue": 0,
+        "OverlayValue": 0,
+        "Smoothing": 0,
+        "IncludeItems": false
+      },
+      "HandGestureSettings": {
+        "GestureLeft": "",
+        "GestureRight": "",
+        "GestureCombinator": "AND",
+        "AllowMirroredGesture": false,
+        "DeactivateExpWhenGestureNotDetected": false,
+        "SecondsUntilDetection": 0.5,
+        "SecondsDetected": 0.0,
+        "PercentDetected": 0.0
+      },
+      "Triggers": {
+        "Trigger1": "RightControl",
+        "Trigger2": "Numpad9",
+        "ScreenButton": -1
+      },
+      "IsGlobal": true,
+      "IsActive": true,
+      "Minimized": false,
+      "StopsOnLastFrame": false,
+      "DeactivateAfterKeyUp": false,
+      "DeactivateAfterSeconds": false,
+      "DeactivateAfterSecondsAmount": 10.0,
+      "FadeSecondsAmount": 0.5,
+      "OnScreenHotkeyColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  ],
+  "HotkeySettings": {
+    "UseOnScreenHotkeys": false,
+    "UseKeyboardHotkeys": true,
+    "SendOnScreenHotkeysToPC": true,
+    "OnScreenHotkeyAlpha": 75
+  },
+  "ArtMeshDetails": {
+    "ArtMeshesExcludedFromPinning": [],
+    "ArtMeshesThatDeleteItemsOnDrop": [],
+    "ArtMeshSceneLightingMultipliers": []
+  },
+  "PhysicsCustomizationSettings": {
+    "PhysicsMultipliersPerPhysicsGroup": [],
+    "WindMultipliersPerPhysicsGroup": []
+  }
+}
